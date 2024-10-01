@@ -13,7 +13,7 @@
 ![Screenshot (77)](https://github.com/user-attachments/assets/db922bda-9909-4bd1-bd43-be5957a17e01)
 
 ## Create the ImageSection widget
-!![Screenshot (78)](https://github.com/user-attachments/assets/826692d5-0f50-4186-9cb9-c3977f734255)
+![Screenshot (78)](https://github.com/user-attachments/assets/826692d5-0f50-4186-9cb9-c3977f734255)
 
 # Hasil Jadi
 ![Screenshot (79)](https://github.com/user-attachments/assets/45a714ae-1e73-4c2c-88df-532bf6b73617)
